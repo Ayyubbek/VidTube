@@ -22,7 +22,7 @@ npm install
 # start vite dev server
 npm run dev
 Create a .env file and add your API key:
-VITE_YOUTUBE_API_KEY=your_api_key_here
+VITE_YOUTUBE_API_KEY=Api_key_here
 # start vite dev server
 npm run dev
 
